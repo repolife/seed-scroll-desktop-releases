@@ -4,7 +4,7 @@ Installers for the Seed Scroll desktop app, and the feed it checks for updates.
 
 Download the latest version from [seedscroll.app](https://seedscroll.app) or the [Releases page](https://github.com/repolife/seed-scroll-desktop-releases/releases/latest):
 
-- **macOS:** `Seed Scroll-<version>-universal.dmg` (or the arm64/x64 build for your Mac)
+- **macOS:** the `.dmg` file
 - **Windows:** `SeedScrollSetup-x64.exe`
 - **Linux:** `.AppImage` or `.deb`
 
